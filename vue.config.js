@@ -1,7 +1,7 @@
 module.exports = {
   configureWebpack: {
     output: {
-      filename: 'export.js'
+      filename: 'index.js'
     },
     optimization: {
       splitChunks: false

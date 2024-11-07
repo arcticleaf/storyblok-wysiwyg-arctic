@@ -7,8 +7,8 @@ and build your custom wysiwyg editor. TinyMCE is being used here.
 
 [How to pass options](https://www.storyblok.com/docs/Guides/Creating-a-field-type-plugin#how-to-pass-options)
 
-1. `debug` true/false
-2. `oauthToken` Your OAuthToken if you need an file upload to Storyblok
+1.  `debug` true/false
+2.  `oauthToken` Your OAuthToken if you need an file upload to Storyblok
 
 ## Project setup
 
@@ -26,6 +26,12 @@ npm run serve
 
 ```
 npm run build
+```
+
+### To Deploy
+
+```
+npx @storyblok/field-plugin-cli@latest deploy
 ```
 
 ### Customize configuration
