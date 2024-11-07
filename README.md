@@ -31,7 +31,7 @@ npm run build
 ### To Deploy
 
 ```
-npx @storyblok/field-plugin-cli@latest deploy
+npm run deploy
 ```
 
 ### Customize configuration
