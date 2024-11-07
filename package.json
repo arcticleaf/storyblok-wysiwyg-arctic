@@ -1,11 +1,6 @@
 {
-  "name": "storyblok-wysiwyg-example",
-  "description": "A Storyblok WYSIWYG Example Field-Type Plugin",
-  "author": {
-    "name": "Dominik Angerer",
-    "email": "da@storyblok.com",
-    "url": "https://www.storyblok.com/"
-  },
+  "name": "storyblok-wysiwyg-arctic",
+  "description": "A Storyblok WYSIWYG Arctic Field-Type Plugin",
   "version": "1.0.0",
   "private": true,
   "scripts": {
